@@ -1,2 +1,1 @@
-Test
-====
+This is a demo project to test C++2011 features

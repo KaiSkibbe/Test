@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-	int value = 4711;
+	int value = 1111;
 	cout << "Hello Kai, value is " << value << endl;
 	return 0;
 }
