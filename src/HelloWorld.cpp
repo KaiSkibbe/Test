@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-	auto value = 5.0f;
-	cout << "Hello Kai, value is " << value << endl; // prints Hello Kai
+	int value = 4711;
+	cout << "Hello Kai, value is " << value << endl;
 	return 0;
 }
