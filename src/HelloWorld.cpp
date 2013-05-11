@@ -11,6 +11,7 @@ using namespace std;
 
 int main()
 {
+	// comment for hotfix
 	auto value = 1111;
 	cout << "Hello Kai, value is " << value << endl;
 	return 0;
